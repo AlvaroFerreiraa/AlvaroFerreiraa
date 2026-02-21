@@ -1,4 +1,4 @@
-# Olá, eu sou o Alvaro Ferreira! 👋
+# Olá, me chamo Alvaro Ferreira! 👋
 
 **Desenvolvedor em constante evolução & Futuro Profissional de TI**
 
