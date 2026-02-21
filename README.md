@@ -4,7 +4,7 @@
 
 Sou apaixonado por tecnologia, com experiência prática em manutenção de computadores e na aplicação de Inteligência Artificial para ganho de produtividade. Meu foco atual é o desenvolvimento web, construindo desde landing pages interativas até explorar sistemas mais complexos.
 
-Construí minha base lógica e de programação com o **Curso em Vídeo** e, atualmente, sigo me especializando com a **Rocketseat**. Com o ensino médio concluído, estou me preparando para ingressar no ensino superior na área de tecnologia, sempre buscando desafios que exijam inovação e resolução de problemas.
+Construí minha base lógica e de programação com o **Curso em Vídeo** e, atualmente, sigo me especializando com a **Rocketseat**. Estou me preparando para ingressar no ensino superior na área de tecnologia, sempre buscando desafios que exijam inovação e resolução de problemas.
 
 ### O que estou construindo e aprendendo:
 
